@@ -761,3 +761,28 @@ ln_bayes_factor: -25.445 +/-  0.051
 17:04 INFO    : Writing samples file to /home/thussenot/GRB230812B/Xritest/00GRB/Tophat/outdirGRBtophat32cores/GRB230812B_posterior_samples.dat
 17:04 INFO    : Writing samples file to /home/thussenot/GRB230812B/Xritest/00GRB/Tophat/outdirGRBtophat32cores/GRB230812B_posterior_samples.dat
 17:04 INFO    : Writing samples file to /home/thussenot/GRB230812B/Xritest/00GRB/Tophat/outdirGRBtophat32cores/GRB230812B_posterior_samples.dat
+05:20 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirGRBtophat32cores'
+05:20 INFO    : Analysis priors:
+05:20 INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+05:20 INFO    : luminosity_distance=Uniform(minimum=1971, maximum=1991, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+05:20 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+05:20 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+05:20 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+05:20 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+05:20 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+05:20 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+05:20 INFO    : KNtimeshift=0.0
+05:20 INFO    : Ebv=0.0
+05:20 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+05:20 INFO    : Analysis likelihood noise evidence: 0.0
+05:20 INFO    : Single likelihood evaluation took 2.721e-01 s
+05:20 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+05:20 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+05:20 WARNING : Using cached result
+05:20 INFO    : Summary of results:
+nsamples: 8139
+ln_noise_evidence:  0.000
+ln_evidence: -25.445 +/-  0.051
+ln_bayes_factor: -25.445 +/-  0.051
+
+05:20 INFO    : Writing samples file to /home/thussenot/GRB230812B/Xritest/00GRB/Tophat/outdirGRBtophat32cores/GRB230812B_posterior_samples.dat
