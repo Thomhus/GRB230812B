@@ -793,3 +793,29 @@ ln_bayes_factor: -40.875 +/-  0.061
 06:19 INFO    : Writing samples file to /home/thussenot/GRB230812B/Xritest/01SNGRB/Tophat/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
 06:19 INFO    : Writing samples file to /home/thussenot/GRB230812B/Xritest/01SNGRB/Tophat/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
 06:19 INFO    : Writing samples file to /home/thussenot/GRB230812B/Xritest/01SNGRB/Tophat/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
+10:45 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+10:45 INFO    : Analysis priors:
+10:45 INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+10:45 INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+10:45 INFO    : luminosity_distance=Uniform(minimum=1971, maximum=1991, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+10:45 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+10:45 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+10:45 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+10:45 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+10:45 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+10:45 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+10:45 INFO    : KNtimeshift=0.0
+10:45 INFO    : Ebv=0.0
+10:45 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+10:45 INFO    : Analysis likelihood noise evidence: 0.0
+10:45 INFO    : Single likelihood evaluation took 2.446e-01 s
+10:45 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+10:45 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+10:45 WARNING : Using cached result
+10:45 INFO    : Summary of results:
+nsamples: 10601
+ln_noise_evidence:  0.000
+ln_evidence: -40.875 +/-  0.061
+ln_bayes_factor: -40.875 +/-  0.061
+
+10:45 INFO    : Writing samples file to /home/thussenot/GRB230812B/Xritest/01SNGRB/Tophat/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
