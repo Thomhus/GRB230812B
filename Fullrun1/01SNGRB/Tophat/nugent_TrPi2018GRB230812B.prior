@@ -1,4 +1,4 @@
-KNtimeshift = 0.0
+timeshift = 0.0
 supernova_mag_boost = Uniform(minimum=-5,maximum=5,name='supernova_mag_boost', latex_label='$magboost$')
 supernova_mag_stretch = Uniform(minimum=0.1, maximum=5., name='supernova_mag_stretch', latex_label='$stretch$')
 em_syserr = LogUniform(name='em_syserr', minimum=1e-2, maximum=2., latex_label='$\\sigma$')

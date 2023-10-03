@@ -1,4 +1,4 @@
-KNtimeshift = 0.0
+timeshift = 0.0
 em_syserr = LogUniform(name='em_syserr', minimum=1e-2, maximum=2., latex_label='$\\sigma$')
 inclination_EM = Uniform(name='inclination_EM', minimum=0., maximum=np.pi/4., latex_label='$\\iota$')
 luminosity_distance = 1981

@@ -1,4 +1,4 @@
-KNtimeshift = 0.0
+timeshift = 0.0
 mtot = Uniform(name='mtot', minimum=0, maximum=0.5, latex_label='$m_{\\rm{tot}}$')
 mni = Uniform(name='mni', minimum=0, maximum=0.03, latex_label='$m_{\\rm{ni}}$')
 vej = Uniform(name='vej', minimum=0., maximum=0.21, latex_label='$v_{\\rm{ej}}$')
