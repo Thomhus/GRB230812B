@@ -1,0 +1,331 @@
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/lightcurve-analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 912, in main
+    analysis(args)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 542, in analysis
+    data = loadEvent(args.data)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/io.py", line 12, in loadEvent
+    lines = [line.rstrip("\n") for line in open(filename)]
+FileNotFoundError: [Errno 2] No such file or directory: '../../../GRB230812B_X_UV_griz_radiov3.txt'
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[47026,1],2]
+  Exit code:    1
+--------------------------------------------------------------------------
