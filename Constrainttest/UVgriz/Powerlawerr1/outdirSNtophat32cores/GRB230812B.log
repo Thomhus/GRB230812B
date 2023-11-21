@@ -951,3 +951,93 @@ ln_evidence: -63.178 +/-  0.063
 ln_bayes_factor: -63.178 +/-  0.063
 
 02:30 INFO    : Writing samples file to /home/thussenot/GRB230812B/Constrainttest/UVgriz/Powerlawerr1/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
+10:18 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+10:18 INFO    : Analysis priors:
+10:18 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+10:18 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+10:18 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+10:18 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+10:18 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+10:18 INFO    : thetaWing=Uniform(minimum=0.01, maximum=0.7853981633974483, name='theta_wing', latex_label='$\\theta_w$', unit=None, boundary=None)
+10:18 INFO    : b=Uniform(minimum=0.1, maximum=7.0, name='b', latex_label='$b$', unit=None, boundary=None)
+10:18 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+10:18 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+10:18 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+10:18 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+10:18 INFO    : timeshift=0.0
+10:18 INFO    : em_syserr=1.0
+10:18 INFO    : luminosity_distance=1981.0
+10:18 INFO    : Ebv=0.0
+10:18 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+10:18 INFO    : Analysis likelihood noise evidence: 0.0
+10:20 INFO    : Single likelihood evaluation took 9.315e-01 s
+10:20 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+10:20 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+10:20 WARNING : Using cached result
+10:20 INFO    : Summary of results:
+nsamples: 12467
+ln_noise_evidence:  0.000
+ln_evidence: -63.178 +/-  0.063
+ln_bayes_factor: -63.178 +/-  0.063
+
+10:20 INFO    : Writing samples file to /home/thussenot/GRB230812B/Constrainttest/UVgriz/Powerlawerr1/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
+10:28 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+10:29 INFO    : Analysis priors:
+10:29 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+10:29 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+10:29 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+10:29 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+10:29 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+10:29 INFO    : thetaWing=Uniform(minimum=0.01, maximum=0.7853981633974483, name='theta_wing', latex_label='$\\theta_w$', unit=None, boundary=None)
+10:29 INFO    : b=Uniform(minimum=0.1, maximum=7.0, name='b', latex_label='$b$', unit=None, boundary=None)
+10:29 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+10:29 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+10:29 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+10:29 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+10:29 INFO    : timeshift=0.0
+10:29 INFO    : em_syserr=1.0
+10:29 INFO    : luminosity_distance=1981.0
+10:29 INFO    : Ebv=0.0
+10:29 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+10:29 INFO    : Analysis likelihood noise evidence: 0.0
+10:31 INFO    : Single likelihood evaluation took 1.161e+00 s
+10:31 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+10:31 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+10:31 WARNING : Using cached result
+10:31 INFO    : Summary of results:
+nsamples: 12467
+ln_noise_evidence:  0.000
+ln_evidence: -63.178 +/-  0.063
+ln_bayes_factor: -63.178 +/-  0.063
+
+10:31 INFO    : Writing samples file to /home/thussenot/GRB230812B/Constrainttest/UVgriz/Powerlawerr1/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
+10:31 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+10:31 INFO    : Analysis priors:
+10:31 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+10:31 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+10:31 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+10:31 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+10:31 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+10:31 INFO    : thetaWing=Uniform(minimum=0.01, maximum=0.7853981633974483, name='theta_wing', latex_label='$\\theta_w$', unit=None, boundary=None)
+10:31 INFO    : b=Uniform(minimum=0.1, maximum=7.0, name='b', latex_label='$b$', unit=None, boundary=None)
+10:31 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+10:31 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+10:31 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+10:31 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+10:31 INFO    : timeshift=0.0
+10:31 INFO    : em_syserr=1.0
+10:31 INFO    : luminosity_distance=1981.0
+10:31 INFO    : Ebv=0.0
+10:31 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+10:31 INFO    : Analysis likelihood noise evidence: 0.0
+10:33 INFO    : Single likelihood evaluation took 1.018e+00 s
+10:33 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+10:33 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+10:33 WARNING : Using cached result
+10:33 INFO    : Summary of results:
+nsamples: 12467
+ln_noise_evidence:  0.000
+ln_evidence: -63.178 +/-  0.063
+ln_bayes_factor: -63.178 +/-  0.063
+
+10:33 INFO    : Writing samples file to /home/thussenot/GRB230812B/Constrainttest/UVgriz/Powerlawerr1/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
