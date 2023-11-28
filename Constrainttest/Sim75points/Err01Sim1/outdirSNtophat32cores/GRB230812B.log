@@ -1,0 +1,845 @@
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : Analysis priors:
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : Analysis priors:
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : Analysis priors:
+01:07 INFO    : Analysis priors:
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : Analysis priors:
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:07 INFO    : Analysis priors:
+01:07 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+01:07 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+01:07 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+01:07 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+01:07 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+01:07 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+01:07 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+01:07 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+01:07 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+01:07 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+01:07 INFO    : timeshift=0.0
+01:07 INFO    : luminosity_distance=1981.0
+01:07 INFO    : Ebv=0.0
+01:07 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+01:07 INFO    : Analysis likelihood noise evidence: 0.0
+01:08 INFO    : Single likelihood evaluation took 2.282e-01 s
+01:08 INFO    : Single likelihood evaluation took 2.339e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15550227fa90>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15550225ba90>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.400e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155502277a90>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.424e-01 s
+01:08 INFO    : Single likelihood evaluation took 2.427e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca97b80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.437e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca9ba90>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca97b80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.464e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15553529ba90>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.542e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155502277b80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.567e-01 s
+01:08 INFO    : Single likelihood evaluation took 2.519e-01 s
+01:08 INFO    : Single likelihood evaluation took 2.587e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca9fa90>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.598e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca97af0>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15550225baf0>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.612e-01 s
+01:08 INFO    : Single likelihood evaluation took 2.632e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca8faf0>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155535297b80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15550227ba90>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.668e-01 s
+01:08 INFO    : Single likelihood evaluation took 2.681e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15550227fa90>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155535273b20>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.687e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155502283b80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.637e-01 s
+01:08 INFO    : Single likelihood evaluation took 2.728e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15550227fb80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.693e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca8bb80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15550227fb80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.795e-01 s
+01:08 INFO    : Single likelihood evaluation took 2.816e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155502273b80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155535297b80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.828e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca8faf0>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.877e-01 s
+01:08 INFO    : Single likelihood evaluation took 2.892e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15550227bb20>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155502283b80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 2.941e-01 s
+01:08 INFO    : Single likelihood evaluation took 2.975e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x155502287a90>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 3.001e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca9fa90>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 3.013e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15550225fb80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 3.043e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15550228bb80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca9bb20>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 3.110e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca9bb20>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+01:08 INFO    : Single likelihood evaluation took 3.232e-01 s
+01:08 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+01:08 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+01:08 INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 10, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15552ca9fb80>>}
+01:08 INFO    : Temporary directory incompatible with MPI, will run in original directory
+01:08 INFO    : Using output file outdirSNtophat32cores/pm_GRB230812B/
+02:48 INFO    : Sampling time: 1:40:13.518612
+02:48 INFO    : Sampling time: 1:40:16.245269
+02:48 INFO    : Sampling time: 1:40:19.486203
+02:48 INFO    : Sampling time: 1:40:19.386438
+02:48 INFO    : Sampling time: 1:40:13.312065
+02:48 INFO    : Sampling time: 1:40:19.460961
+02:48 INFO    : Sampling time: 1:40:17.808006
+02:48 INFO    : Sampling time: 1:40:17.440395
+02:48 INFO    : Sampling time: 1:40:19.165379
+02:48 INFO    : Sampling time: 1:40:17.445400
+02:48 INFO    : Sampling time: 1:40:17.007882
+02:48 INFO    : Sampling time: 1:40:12.100421
+02:48 INFO    : Sampling time: 1:40:15.711490
+02:48 INFO    : Sampling time: 1:40:15.472131
+02:48 INFO    : Sampling time: 1:40:18.097794
+02:48 INFO    : Sampling time: 1:40:10.996025
+02:48 INFO    : Sampling time: 1:40:17.008392
+02:48 INFO    : Sampling time: 1:40:15.020626
+02:48 INFO    : Sampling time: 1:40:17.606627
+02:48 INFO    : Sampling time: 1:40:17.959412
+02:48 INFO    : Sampling time: 1:40:16.806815
+02:48 INFO    : Sampling time: 1:40:20.337621
+02:48 INFO    : Sampling time: 1:40:16.385956
+02:48 INFO    : Sampling time: 1:40:13.802040
+02:48 INFO    : Sampling time: 1:40:15.990912
+02:48 INFO    : Sampling time: 1:40:17.269336
+02:48 INFO    : Sampling time: 1:40:14.759300
+02:48 INFO    : Sampling time: 1:40:14.277453
+02:48 INFO    : Sampling time: 1:40:20.122323
+02:48 INFO    : Sampling time: 1:40:13.739553
+02:48 INFO    : Sampling time: 1:40:20.409976
+02:48 INFO    : Sampling time: 1:40:18.597258
+02:48 ERROR   : 
+
+Saving the data has failed with the following message:
+[Errno 116] Stale file handle
+Data has been dumped to outdirSNtophat32cores/GRB230812B_result.pkl.
+
+
+02:48 ERROR   : 
+
+Saving the data has failed with the following message:
+[Errno 116] Stale file handle
+Data has been dumped to outdirSNtophat32cores/GRB230812B_result.pkl.
+
+
+02:48 ERROR   : 
+
+Saving the data has failed with the following message:
+[Errno 116] Stale file handle
+Data has been dumped to outdirSNtophat32cores/GRB230812B_result.pkl.
+
+
+02:48 INFO    : Summary of results:
+nsamples: 16074
+ln_noise_evidence:  0.000
+ln_evidence: 34.905 +/-  0.117
+ln_bayes_factor: 34.905 +/-  0.117
+
+02:48 INFO    : Writing samples file to /home/thussenot/GRB230812B/Constrainttest/Sim75points/Err01Sim1/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
+02:48 INFO    : Summary of results:
+nsamples: 16074
+ln_noise_evidence:  0.000
+ln_evidence: 34.905 +/-  0.117
+ln_bayes_factor: 34.905 +/-  0.117
+
+02:48 INFO    : Writing samples file to /home/thussenot/GRB230812B/Constrainttest/Sim75points/Err01Sim1/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
+02:48 INFO    : Summary of results:
+nsamples: 16074
+ln_noise_evidence:  0.000
+ln_evidence: 34.905 +/-  0.117
+ln_bayes_factor: 34.905 +/-  0.117
+
+02:48 INFO    : Summary of results:
+nsamples: 16074
+ln_noise_evidence:  0.000
+ln_evidence: 34.905 +/-  0.117
+ln_bayes_factor: 34.905 +/-  0.117
+
+02:48 INFO    : Writing samples file to /home/thussenot/GRB230812B/Constrainttest/Sim75points/Err01Sim1/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
+02:48 INFO    : Writing samples file to /home/thussenot/GRB230812B/Constrainttest/Sim75points/Err01Sim1/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
+08:31 INFO    : Running for label 'GRB230812B', output will be saved to 'outdirSNtophat32cores'
+08:32 INFO    : Analysis priors:
+08:32 INFO    : supernova_mag_boost=Uniform(minimum=-5, maximum=5, name='supernova_mag_boost', latex_label='$magboost$', unit=None, boundary=None)
+08:32 INFO    : supernova_mag_stretch=Uniform(minimum=0.1, maximum=5.0, name='supernova_mag_stretch', latex_label='$stretch$', unit=None, boundary=None)
+08:32 INFO    : em_syserr=LogUniform(minimum=0.01, maximum=2.0, name='em_syserr', latex_label='$\\sigma$', unit=None, boundary=None)
+08:32 INFO    : inclination_EM=Uniform(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', latex_label='$\\iota$', unit=None, boundary=None)
+08:32 INFO    : log10_E0=Uniform(minimum=47.0, maximum=57.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+08:32 INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+08:32 INFO    : log10_n0=Uniform(minimum=-6, maximum=3.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+08:32 INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+08:32 INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+08:32 INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+08:32 INFO    : timeshift=0.0
+08:32 INFO    : luminosity_distance=1981.0
+08:32 INFO    : Ebv=0.0
+08:32 INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+08:32 INFO    : Analysis likelihood noise evidence: 0.0
+08:32 INFO    : Single likelihood evaluation took 2.432e-01 s
+08:32 WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+08:32 WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+08:32 WARNING : Using cached result
+08:32 INFO    : Summary of results:
+nsamples: 16074
+ln_noise_evidence:  0.000
+ln_evidence: 34.905 +/-  0.117
+ln_bayes_factor: 34.905 +/-  0.117
+
+08:32 INFO    : Writing samples file to /home/thussenot/GRB230812B/Constrainttest/Sim75points/Err01Sim1/outdirSNtophat32cores/GRB230812B_posterior_samples.dat
